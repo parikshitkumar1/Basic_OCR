@@ -1,5 +1,5 @@
 ---
-# OCR
+# Basic OCR
 ## Motivation
 to make an OCR using CV libraries
 ## Requirements
