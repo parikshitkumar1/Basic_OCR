@@ -1,7 +1,7 @@
 ---
 # Basic OCR
 ## Motivation
-to make an OCR using CV libraries
+To make an OCR using CV libraries
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
