@@ -21,4 +21,4 @@ $ python3 OCR.py
 
 ## Might Do
 - [ ] Try Different OpenCV filters
----
+----
